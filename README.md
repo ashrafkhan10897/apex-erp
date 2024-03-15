@@ -41,8 +41,6 @@ This command will start a local development server and open the application in y
 
 Usage
 
-The website has name of the  
-
 Pages in application:
 1. Dashboard
 2. Products management
