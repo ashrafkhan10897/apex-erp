@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+
+.main{
+    display: flex;
+    height: 100vh;
+}
+
+h2{
+    margin-top: 1.5rem;
+}
+
+.ord{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}

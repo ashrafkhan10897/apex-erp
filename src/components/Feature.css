@@ -1,0 +1,10 @@
+.feature{
+    width: 350px;
+    height: 151px;
+}
+
+.feature:hover{
+    box-shadow: 0 5px 9px 0 #4791db;
+}
+
+
