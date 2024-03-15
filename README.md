@@ -47,19 +47,19 @@ Pages in application:
 3. Orders management
 4. Orders calender view
 
-1. Dashboard page: All the features of ERP system are displayed here. The features are displayed using cards. You can quickly navigate to Order management, product management and orders calender view pages from dashboard. 
+Dashboard page: All the features of ERP system are displayed here. The features are displayed using cards. You can quickly navigate to Order management, product management and orders calender view pages from dashboard. 
 
-2. Products management page:
+Products management page:
 
 Page displays list of all products using material UI card view.The card consist of name,category, price, and stock quantity information. Each individual card can be Edited and deleted from the list. You can also add a new product by filling the details and clicking on the add product button.
 
-3. Orders management page:
+Orders management page:
 
 Page displays the list of all Orders. The card consists of orderId, customer name, order date,and status.
 
 You can edit the status of orders by clicking on edit status button and delete an order by clicking on delete button.
 
-4. Calender View page:
+Calender View page:
 
 By default the current date is selected. Tick marks on the dates represent that there is an order due on that day. If you click the date you can see the details of the orders respresented as list.
 
