@@ -3,7 +3,7 @@ import Calendar from "react-calendar";
 import "react-calendar/dist/Calendar.css";
 import ordersData from "../../data/orderData";
 import Header from "../components/Header";
-import "./CalenderView.css";
+import "./CalendarView.css";
 import NavBar from "../components/NavBar";
 
 export default function CalendarViewComp() {
@@ -36,7 +36,7 @@ export default function CalendarViewComp() {
     <div>
       <Header />
       <NavBar/>
-      <h2>Orders Calender View</h2>
+      <h2>Orders Calendar View</h2>
         <div className='content'>
           <div className='calendar'>
             <Calendar

@@ -4,7 +4,7 @@ import Dashboard from './pages/Dashboard'
 import Orders from './pages/Orders'
 import Products from './pages/Products';
 import NoPage from './pages/NoPage';
-import CalendarViewComp from './pages/CalenderView';
+import CalendarViewComp from './pages/CalendarView';
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
           <Route path='/dashboard' element={<Dashboard/>}/>
           <Route path='/orders' element={<Orders/>}/>
           <Route path='/products' element={<Products/>}/>
-          <Route path='/calenderview' element={<CalendarViewComp/>}/>
+          <Route path='/calendarview' element={<CalendarViewComp/>}/>
           <Route path='*' element={<NoPage/>}/>
         </Routes>
       </BrowserRouter>

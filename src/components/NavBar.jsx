@@ -22,7 +22,7 @@ export default function NavBar(){
               <Link className="nav-link text-white" to="/orders"><h4>Orders</h4></Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link text-white" to="/calenderview"><h4>Calender View</h4></Link>
+              <Link className="nav-link text-white" to="/calendarview"><h4>Calendar View</h4></Link>
             </li>
           </ul>
         </div>
